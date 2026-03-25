@@ -36,7 +36,7 @@ Focused on game development, procedural generation, rendering techniques, and UI
 ---
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-C0C0C0?style=for-the-badge&label=)
-- Portfolio: `http://LauroSchmeiser/Portfolio` (consider replacing with a real URL)
+- Portfolio: (https://github.com/LauroSchmeiser/Portfolio)
 - Projects are grouped by tool/language; context is inside each project folder.
 
 ---
