@@ -5,11 +5,13 @@
 ![Skills / Tooling](https://img.shields.io/badge/Skills%20%2F%20Tooling-C0C0C0?style=for-the-badge&label=&color=C0C0C0)
 
 ![Game Engines](https://img.shields.io/badge/Game%20Engines-2B2B2B?style=for-the-badge&label=)
+
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&label=)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&label=)
 ![Godot](https://img.shields.io/badge/Godot-111111?style=for-the-badge&label=)
 
 ![Languages](https://img.shields.io/badge/Languages-2B2B2B?style=for-the-badge&label=)
+
 ![Java](https://img.shields.io/badge/Java-B00020?style=for-the-badge&label=)
 ![Python](https://img.shields.io/badge/Python-B00020?style=for-the-badge&label=)
 ![C#](https://img.shields.io/badge/C%23-B00020?style=for-the-badge&label=)
@@ -17,9 +19,11 @@
 ![HLSL](https://img.shields.io/badge/HLSL-B00020?style=for-the-badge&label=)
 
 ![Graphics / DCC](https://img.shields.io/badge/Graphics%20%2F%20DCC-2B2B2B?style=for-the-badge&label=)
+
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&label=)
 
-![Web / Data (basic)](https://img.shields.io/badge/Web%20%2F%20Data%20(basic)-2B2B2B?style=for-the-badge&label=) /n
+![Web / Data (basic)](https://img.shields.io/badge/Web%20%2F%20Data%20(basic)-2B2B2B?style=for-the-badge&label=)
+
 ![SQL](https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&label=)
 ![HTML](https://img.shields.io/badge/HTML-D4AF37?style=for-the-badge&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&label=)
