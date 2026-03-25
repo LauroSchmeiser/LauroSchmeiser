@@ -1,7 +1,5 @@
 ![Lauro Schmeiser — Game Dev • Rendering • UI/UX](https://img.shields.io/badge/Lauro%20Schmeiser%20—%20Game%20Dev%20•%20Rendering%20•%20UI%2FUX-FF8C00?style=for-the-badge&label=)
 
-Focused on game development, procedural generation, rendering techniques, and UI/UX engineering.
-
 ---
 
 ![Skills / Tooling](https://img.shields.io/badge/Skills%20%2F%20Tooling-C0C0C0?style=for-the-badge&label=&color=C0C0C0)
@@ -21,7 +19,7 @@ Focused on game development, procedural generation, rendering techniques, and UI
 ![Graphics / DCC](https://img.shields.io/badge/Graphics%20%2F%20DCC-2B2B2B?style=for-the-badge&label=)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&label=)
 
-![Web / Data (basic)](https://img.shields.io/badge/Web%20%2F%20Data%20(basic)-2B2B2B?style=for-the-badge&label=)
+![Web / Data (basic)](https://img.shields.io/badge/Web%20%2F%20Data%20(basic)-2B2B2B?style=for-the-badge&label=) /n
 ![SQL](https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&label=)
 ![HTML](https://img.shields.io/badge/HTML-D4AF37?style=for-the-badge&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&label=)
@@ -29,6 +27,7 @@ Focused on game development, procedural generation, rendering techniques, and UI
 ---
 
 ![Focus Areas](https://img.shields.io/badge/Focus%20Areas-C0C0C0?style=for-the-badge&label=)
+- Game Design & Game Development
 - UI/UX Design & Data Visualization
 - Rendering (real-time) + shader work (HLSL / similar)
 - Procedural generation & tools
