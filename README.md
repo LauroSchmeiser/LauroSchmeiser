@@ -1,6 +1,22 @@
 ## Interests:
 Game Development, Rendering, UI/UX Engineering 
 
+##Skills:
+### Game Dev
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=java&logoColor=white)
+
+
+### Rendering / Graphics
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+
 ## My personal work:
 Most of my previous work can be found here:
 http://LauroSchmeiser/Portfolio
