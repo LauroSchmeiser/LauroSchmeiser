@@ -35,7 +35,7 @@
 ---
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-C0C0C0?style=for-the-badge&label=)
-- ([Portfolio](https://github.com/LauroSchmeiser/Portfolio))
+- [Portfolio](https://github.com/LauroSchmeiser/Portfolio)
 - Projects are grouped by tool/language; context is inside each project folder.
 
 ---
