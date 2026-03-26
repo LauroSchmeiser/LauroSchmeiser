@@ -9,17 +9,17 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-B00020?style=for-the-badge&label=)
 ![Godot](https://img.shields.io/badge/Godot-B00020?style=for-the-badge&label=)
 
-![Languages](https://img.shields.io/badge/Languages-2B2B2B?style=for-the-badge&label=)
+![Languages](https://img.shields.io/badge/Languages-6F42C1?style=for-the-badge&label=)
 ![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&label=)
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&label=)
 ![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&label=)
 ![C++](https://img.shields.io/badge/C%2B%2B-007ACC?style=for-the-badge&label=)
 ![HLSL](https://img.shields.io/badge/HLSL-007ACC?style=for-the-badge&label=)
 
-![Graphics / DCC](https://img.shields.io/badge/Graphics%20%2F%20DCC-2B2B2B?style=for-the-badge&label=)
+![Graphics / DCC](https://img.shields.io/badge/Graphics%20%2F%20DCC-6F42C1?style=for-the-badge&label=)
 ![Blender](https://img.shields.io/badge/Blender-2EA043?style=for-the-badge&label=)
 
-![Web / Data (basic)](https://img.shields.io/badge/Web%20%2F%20Data%20(basic)-2B2B2B?style=for-the-badge&label=)
+![Web / Data (basic)](https://img.shields.io/badge/Web%20%2F%20Data%20(basic)-6F42C1?style=for-the-badge&label=)
 ![SQL](https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&label=)
 ![HTML](https://img.shields.io/badge/HTML-D4AF37?style=for-the-badge&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&label=)
