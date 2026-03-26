@@ -43,13 +43,3 @@
 ![Stats / Activity](https://img.shields.io/badge/Stats%20%2F%20Activity-C0C0C0?style=for-the-badge&label=)
 ![Metrics](./github-metrics.svg)
 
----
-
-![My personal work](https://img.shields.io/badge/My%20personal%20work-C0C0C0?style=for-the-badge&label=)
-
-My work can be separated into 3 major parts:
-1. Projects for/during University (IP lies with me)
-2. Gamejams and similar short-term projects
-3. Personal long term projects
-
-
